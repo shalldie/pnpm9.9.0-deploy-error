@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      mini-tpl:
+        specifier: ^1.1.1
+        version: 1.1.1
+
+packages:
+
+  mini-tpl@1.1.1:
+    resolution: {integrity: sha512-kSOA6OK0gkZTGQ7PolqCy8HSFZNoe/uajGSIMlbvNxmWga5GLjkoK/DVLc037YS+JeeOGdwHPc+gzuW48QfO7Q==}
+
+snapshots:
+
+  mini-tpl@1.1.1: {}

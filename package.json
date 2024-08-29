@@ -1,0 +1,9 @@
+{
+  "name": "testdeploy",
+  "version": "1.0.0",
+  "scripts": {
+    "testdeploy": "rm -rf output && pnpm --filter=app --prod deploy ./output/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "pnpm@9.9.0"
+}
