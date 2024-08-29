@@ -2,6 +2,8 @@
 
 pnpm@9.9.0 when run pnpm deploy, the pkgs in node_modules get lost.
 
+for the issue https://github.com/pnpm/pnpm/issues/8475
+
 ## my projects layout
 
 ```
